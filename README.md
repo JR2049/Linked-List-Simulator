@@ -12,6 +12,7 @@ The `SLinkedList` class supports the following operations:
 - Add nodes to the list
 - Insert nodes at specific positions
 - Delete nodes
+- Swap the position of two nodes
 - Reverse the list
 - Apply sorting algorithms:
   - Bubble Sort
