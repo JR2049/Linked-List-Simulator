@@ -25,11 +25,15 @@ The underlying list is built from `Node` objects, which store values and referen
 
 ## 📂 Project Structure
 
-- **`Node` class** → Defines the structure of a node (`data`, `next`)  
-- **`SLinkedList` class** → Defines the linked list and its operations  
+- **`Node` class** → Defines the structure of a node (`data`, `pointer`)  
+- **`SLinkedList` class** → Defines the head node of the linked list and the list's operations  
 - **Test code (at the bottom)** → Demonstrates the linked list methods in action  
 
 > ⚠️ There is no GUI or command-line interface. To experiment, edit the **test code** section at the bottom of the file.
 
 ---
 
+## 💻 Running the Project
+- Open main.py in PyCharm
+- Click Run ▶ to start the program
+- ✅ No external installations needed
